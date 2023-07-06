@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Jokes Database Web App.props" />
+</Project>
